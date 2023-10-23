@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryForm", "InventoryForm.csproj", "{857FF65B-7E41-4BF1-B32C-B36FBB3B3AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857FF65B-7E41-4BF1-B32C-B36FBB3B3AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857FF65B-7E41-4BF1-B32C-B36FBB3B3AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857FF65B-7E41-4BF1-B32C-B36FBB3B3AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857FF65B-7E41-4BF1-B32C-B36FBB3B3AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C2A05B7-9094-4963-A6C5-699B895B5B0B}
+	EndGlobalSection
+EndGlobal
