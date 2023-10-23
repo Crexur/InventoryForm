@@ -8,6 +8,7 @@ Features
 3.	Error Handling: If input is invalid, the class raises custom exceptions with descriptive error messages. Users are promptly notified of any errors encountered during the input process.
 4.	Predefined Category List: The form offers a dropdown list with predefined product categories. This simplifies the selection of the appropriate category for each product.
 5.	User Interface: The form provides buttons and controls for submitting product information and displaying the added products in a grid view. The grid view automatically adjusts its columns to fit the data.
+
 Usage
 1.	Open the frmAddProduct form to add a new product.
 2.	Enter the product information in the corresponding fields:
